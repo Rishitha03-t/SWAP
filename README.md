@@ -1,2 +1,2 @@
 # SWAP
-a program to swap two numbers using third variables.
+a program to swap two numbers using third variable.
